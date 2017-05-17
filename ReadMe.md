@@ -1,1 +1,1 @@
-this is  a test !
+这是maven的仓库！
