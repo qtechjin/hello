@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 27 14:25:18 CST 2016
+log4j-1.2.13.pom>nexus=
+log4j-1.2.13-sources.jar>nexus=
+log4j-1.2.13.jar>nexus=
